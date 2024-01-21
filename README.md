@@ -62,18 +62,19 @@ Nivel B2
 
 ## Certificados
 
-<img src="/images/Cgit.png" alt="Certificado de Git" width="100">
-<img src="/images/Cpr.png" alt="Certificado de Programación" width="100">
-<img src="/images/Cpoo.png" alt="Certificado de Estructuras de Datos" width="100">
-<img src="/images/Cnet.png" alt="Certificado de Redes" width="100">
-<img src="/images/Csimp.png" alt="Certificado de Participación en un Simposio de Tecnología" width="100">
-<img src="/images/Cen.png" alt="Certificado de Inglés" width="100">
-<img src="/images/A1/A1-1.png" alt="Certificado de Ofimática A1" width="100">
-<img src="/images/A2/A2-1.png" alt="Certificado de Ofimática A2" width="100">
-<img src="/images/A3/A3-1.png" alt="Certificado de Ofimática A3" width="100">
-<img src="/images/C1/C1-1.png" alt="Certificado de Ofimática C1" width="100">
-<img src="/images/C2/C2-1.png" alt="Certificado de Ofimática C2" width="100">
-<img src="/images/C3/C3-1.png" alt="Certificado de Ofimática C3" width="100">
+<img src="/images/Cgit.png" alt="Certificado de Git" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/Cpr.png" alt="Certificado de Programación" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/Cpoo.png" alt="Certificado de Estructuras de Datos" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/Cnet.png" alt="Certificado de Redes" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/Csimp.png" alt="Certificado de Participación en un Simposio de Tecnología" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/Cen.png" alt="Certificado de Inglés" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/A1/A1-1.png" alt="Certificado de Ofimática A1" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/A2/A2-1.png" alt="Certificado de Ofimática A2" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/A3/A3-1.png" alt="Certificado de Ofimática A3" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/C1/C1-1.png" alt="Certificado de Ofimática C1" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/C2/C2-1.png" alt="Certificado de Ofimática C2" width="150" style="display: inline-block; margin-right: 10px;">
+<img src="/images/C3/C3-1.png" alt="Certificado de Ofimática C3" width="150" style="display: inline-block; margin-right: 10px;">
+
 
 
 <!-- ![Certificado de Node](/images/Cpoo.pdf) -->

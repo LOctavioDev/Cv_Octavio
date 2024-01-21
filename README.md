@@ -4,8 +4,7 @@
 Hola Soy Luis Octavio Lopez Martinez, un estudiante de desarrollo de software multiplataforma apasionado por el mundo de la programación y la tecnología. Actualmente, me encuentro cursando el 5º cuatrimestre de la carrera de TSU en desarrollo de software multiplataforma en la Universidad Tecnológica de Xicotepec de Juárez.
 
 ## Enlaces
-- [LinkedIn](enlace_a_tu_perfil)
-- [Portafolio Personal](enlace_a_tu_portafolio)
+- [LinkedIn]
 
 ## Tecnologías y Habilidades
 - Lógica de programación
@@ -15,15 +14,15 @@ Hola Soy Luis Octavio Lopez Martinez, un estudiante de desarrollo de software mu
 - Usuario experimentado en sistemas operativos LINUX, incluyendo distribuciones como Ubuntu, Fedora y Debian con Raspberry para proyectos de IoT
 
 ## Proyectos Destacados
-- [Proyecto 1: Desarrollo de una Apirest con FastApi](enlace_al_proyecto_1)
-- [Proyecto 2: Implementación de una base de datos de prueba de YouTube](enlace_al_proyecto_2)
+- [Proyecto 1: Desarrollo de una Apirest con FastApi]
+- [Proyecto 2: Implementación de una base de datos de prueba de YouTube]
 
 ## Educación
 - **Universidad Tecnológica de Xicotepec de Juárez**
   - Carrera: TSU en Desarrollo de Software Multiplataforma
   - Año de Graduación Esperada: 2026
 
-## Experiencia en Lenguajes y Frameworks
+## Experiencia en Lenguajes y Frameworks  
 ### Python
 - Dominio avanzado, con experiencia en frameworks como FastApi, Flask y Django
 - Conocimientos en ciencia de datos con Pandas y Numpy
@@ -64,12 +63,12 @@ Hola Soy Luis Octavio Lopez Martinez, un estudiante de desarrollo de software mu
 Nivel B2
 
 ## Certificados
-![Certificado de Git](/images/Cgit.png)(enlace_al_certificado)
-![Certificado de Programacion](/images/Cpr.png)(enlace_al_certificado_python)
-![Certificado de POO](/images/Cpoo.pdf)(enlace_al_certificado_js)
-![Certificado de Node](/images/Cpoo.pdf)(enlace_al_certificado_js)
+![Certificado de Git](/images/Cgit.png)
+![Certificado de Programacion](/images/Cpr.png)
+![Certificado de POO](/images/Cpoo.pdf)
+<!-- ![Certificado de Node](/images/Cpoo.pdf) -->
 
 
 ---
 
-**Última Actualización:** [Fecha]
+**Última Actualización:** 

@@ -66,8 +66,6 @@ Nivel B2
   <tr>
     <td><img src="/images/Cgit.png" alt="Certificado de Git" width="500"></td>
     <td><img src="/images/Cpr.png" alt="Certificado de Programación" width="500"></td>
-    <td><img src="/images/Cpoo.png" alt="Certificado de Estructuras de Datos" width="500"></td>
-    <td><img src="/images/Cnet.png" alt="Certificado de Redes" width="500"></td>
   </tr>
   <tr>
     <td><img src="/images/Csimp.png" alt="Certificado de Participación en un Simposio de Tecnología" width="350"></td>

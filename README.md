@@ -66,27 +66,24 @@ Nivel B2
   <tr>
     <td><img src="/images/Cgit.png" alt="Certificado de Git" width="500"></td>
     <td><img src="/images/Cpr.png" alt="Certificado de Programación" width="500"></td>
-  </tr>
-  <tr>
     <td><img src="/images/Cpoo.png" alt="Certificado de Estructuras de Datos" width="500"></td>
-    <td><img src="/images/Cnet.png" alt="Certificado de Redes" width="500"></td>
   </tr>
   <tr>
+    <td><img src="/images/Cnet.png" alt="Certificado de Redes" width="500"></td>
     <td><img src="/images/Csimp.png" alt="Certificado de Participación en un Simposio de Tecnología" width="350"></td>
     <td><img src="/images/Cen.png" alt="Certificado de Inglés" width="350"></td>
   </tr>
   <tr>
     <td><img src="/images/A1/A1-1.png" alt="Certificado de Ofimática A1" width="350"></td>
     <td><img src="/images/A2/A2-1.png" alt="Certificado de Ofimática A2" width="350"></td>
+      <td><img src="/images/A3/A3-1.png" alt="Certificado de Ofimática A3" width="350"></td>
   </tr>
   <tr>
-    <td><img src="/images/A3/A3-1.png" alt="Certificado de Ofimática A3" width="350"></td>
     <td><img src="/images/C1/C1-1.png" alt="Certificado de Ofimática C1" width="350"></td>
-  </tr>
-  <tr>
-   <td><img src="/images/C2/C2-1.png" alt="Certificado de Ofimática C2" width="350"></td>
+    <td><img src="/images/C2/C2-1.png" alt="Certificado de Ofimática C2" width="350"></td>
     <td><img src="/images/C3/C3-1.png" alt="Certificado de Ofimática C3" width="350"></td>
   </tr>
+
 </table>
 
 

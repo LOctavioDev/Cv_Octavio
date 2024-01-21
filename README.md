@@ -67,6 +67,7 @@ Nivel B2
 ![Certificado de Programacion](/images/Cpr.png)
 ![Certificado de Estructuras de Datos](/images/Cpoo.png)
 ![Certificado de Redes](/images/Cnet.png)
+![Certificado de Participación en un simposio de tecnología](/images/Csimp.png)
 ![Certificado de Inglés](/images/Cen.png)
 ![Certificados de Ofimática](/images/A1/A1-1.png)
 ![Certificados de Ofimática](/images/A2/A2-1.png)

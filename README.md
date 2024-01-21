@@ -64,8 +64,8 @@ Nivel B2
 
 <table style="width:100%">
   <tr>
-    <td><img src="/images/Cgit.png" alt="Certificado de Git" width="150"></td>
-    <td><img src="/images/Cpr.png" alt="Certificado de Programación" width="150"></td>
+    <td><img src="/images/Cgit.png" alt="Certificado de Git" width="300"></td>
+    <td><img src="/images/Cpr.png" alt="Certificado de Programación" width="300"></td>
     <td><img src="/images/Cpoo.png" alt="Certificado de Estructuras de Datos" width="150"></td>
     <td><img src="/images/Cnet.png" alt="Certificado de Redes" width="150"></td>
   </tr>

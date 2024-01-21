@@ -62,7 +62,7 @@ Nivel B2
 
 ## Certificados
 
-<table style="width:100%">
+<table >
   <tr>
     <td><img src="/images/Cgit.png" alt="Certificado de Git" width="500"></td>
     <td><img src="/images/Cpr.png" alt="Certificado de Programación" width="500"></td>

@@ -24,7 +24,7 @@ Hola Soy Luis Octavio Lopez Martinez, un estudiante de desarrollo de software mu
 
 ## Experiencia en Lenguajes y Frameworks  
 ### Python
-- Dominio avanzado, con experiencia en frameworks como FastApi, Flask y Django
+- Concimiento con experiencia en frameworks como FastApi, Flask y Django
 - Conocimientos en ciencia de datos con Pandas y Numpy
 
 ### JavaScript
@@ -65,7 +65,7 @@ Nivel B2
 ## Certificados
 ![Certificado de Git](/images/Cgit.png)
 ![Certificado de Programacion](/images/Cpr.png)
-![Certificado de POO](/images/Cpoo.pdf)
+![Certificado de Estructuras de Datos](/images/Cpoo.png)
 <!-- ![Certificado de Node](/images/Cpoo.pdf) -->
 
 

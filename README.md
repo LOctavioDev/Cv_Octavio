@@ -66,6 +66,15 @@ Nivel B2
 ![Certificado de Git](/images/Cgit.png)
 ![Certificado de Programacion](/images/Cpr.png)
 ![Certificado de Estructuras de Datos](/images/Cpoo.png)
+![Certificado de Redes](/images/Cnet.png)
+![Certificado de Inglés](/images/Cen.png)
+![Certificados de Ofimática](/images/A1/A1-1.png)
+![Certificados de Ofimática](/images/A2/A2-1.png)
+![Certificados de Ofimática](/images/A3/A3-1.png)
+![Certificados de Ofimática](/images/C1/C1-1.png)
+![Certificados de Ofimática](/images/C2/C2-1.png)
+![Certificados de Ofimática](/images/C3/C3-1.png)
+
 <!-- ![Certificado de Node](/images/Cpoo.pdf) -->
 
 

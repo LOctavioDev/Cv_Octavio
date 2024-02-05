@@ -7,7 +7,7 @@ Hola Soy Luis Octavio Lopez Martinez, un estudiante de desarrollo de software mu
 ## Tecnologías y Habilidades
 - Lógica de programación
 - Algoritmos y pseudocódigo
-- Programación Orientada a Objetos (POO) con conocimientos en los principios de SOLID
+- Programación Orientada a Objetos (POO)
 - Estructuras de datos
 - Usuario experimentado en sistemas operativos LINUX, incluyendo distribuciones como Ubuntu, Fedora y Debian con Raspberry para proyectos de IoT
 
